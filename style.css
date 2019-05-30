@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.jumbotron {
+    background-image: url("back.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.btn {
+    margin: 1%;
+}
+.form-control.mr-sm-2 {
+    width: 50%;
+}
+
+
+.col-md-4 {
+    text-align: center;
+    background-color: bisque;
+    
+}
+.btn-secondary {
+    background-color: transparent;
+    color: black;
+    
+}
+footer {
+    margin-top: 2%;
+    text-align: center;
+}
